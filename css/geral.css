@@ -35,6 +35,7 @@ header .navbar {
 header .navbar ul {
     justify-content: space-around;
     display: flex;
+    align-items: center;
 }
 
 header .navbar li {
